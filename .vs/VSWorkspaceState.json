@@ -3,9 +3,8 @@
     "",
     "\\APICatalogo",
     "\\APICatalogo\\Context",
-    "\\APICatalogo\\Controllers",
-    "\\APICatalogo\\models"
+    "\\APICatalogo\\Controllers"
   ],
-  "SelectedNode": "\\APICatalogo.sln",
+  "SelectedNode": "\\APICatalogo\\Context\\AppDbContext.cs",
   "PreviewInSolutionExplorer": false
 }

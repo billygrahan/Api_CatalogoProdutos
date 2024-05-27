@@ -203,9 +203,9 @@ C:\Users\Billy Grahan\Documents\Api_CatalogoProdutos\APICatalogo\obj\Debug\net8.
 C:\Users\Billy Grahan\Documents\Api_CatalogoProdutos\APICatalogo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APICatalogo.props
 C:\Users\Billy Grahan\Documents\Api_CatalogoProdutos\APICatalogo\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\Billy Grahan\Documents\Api_CatalogoProdutos\APICatalogo\obj\Debug\net8.0\scopedcss\bundle\APICatalogo.styles.css
-C:\Users\Billy Grahan\Documents\Api_CatalogoProdutos\APICatalogo\obj\Debug\net8.0\APICatalogo.csproj.CopyComplete
 C:\Users\Billy Grahan\Documents\Api_CatalogoProdutos\APICatalogo\obj\Debug\net8.0\APICatalogo.dll
 C:\Users\Billy Grahan\Documents\Api_CatalogoProdutos\APICatalogo\obj\Debug\net8.0\refint\APICatalogo.dll
 C:\Users\Billy Grahan\Documents\Api_CatalogoProdutos\APICatalogo\obj\Debug\net8.0\APICatalogo.pdb
 C:\Users\Billy Grahan\Documents\Api_CatalogoProdutos\APICatalogo\obj\Debug\net8.0\APICatalogo.genruntimeconfig.cache
 C:\Users\Billy Grahan\Documents\Api_CatalogoProdutos\APICatalogo\obj\Debug\net8.0\ref\APICatalogo.dll
+C:\Users\Billy Grahan\Documents\Api_CatalogoProdutos\APICatalogo\obj\Debug\net8.0\APICatal.C7776A93.Up2Date

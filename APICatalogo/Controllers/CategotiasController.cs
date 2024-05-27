@@ -20,7 +20,15 @@ namespace APICatalogo.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<Categoria>> Get()
         {
-            return _context.Categorias.ToList();
+            //return _context.Categorias.ToList();
+            try
+            {
+                return _context.Categorias.ToList();
+            }
+            catch (Exception)
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError);
+            }
         }
 
         [HttpGet("Categoria_Produtos")]
@@ -58,10 +66,6 @@ namespace APICatalogo.Controllers
         [HttpPut("{id:int}")]
         public ActionResult Put(int id, Categoria categoria)
         {
-            if (id != categoria.CategoriaId)
-            {
-                return BadRequest();
-            }
             _context.Entry(categoria).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
             _context.SaveChanges();
             return Ok(categoria);
